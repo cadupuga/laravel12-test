@@ -1,0 +1,16 @@
+2025/02/24 14:08:03 [notice] 1#1: using the "epoll" event method
+2025/02/24 14:08:03 [notice] 1#1: nginx/1.20.0
+2025/02/24 14:08:03 [notice] 1#1: built by gcc 10.2.1 20201203 (Alpine 10.2.1_pre1) 
+2025/02/24 14:08:03 [notice] 1#1: OS: Linux 5.15.167.4-microsoft-standard-WSL2
+2025/02/24 14:08:03 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/02/24 14:08:03 [notice] 1#1: start worker processes
+2025/02/24 14:08:03 [notice] 1#1: start worker process 31
+2025/02/24 14:08:23 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/02/24 14:08:23 [notice] 31#31: gracefully shutting down
+2025/02/24 14:08:51 [notice] 1#1: using the "epoll" event method
+2025/02/24 14:08:51 [notice] 1#1: nginx/1.20.0
+2025/02/24 14:08:51 [notice] 1#1: built by gcc 10.2.1 20201203 (Alpine 10.2.1_pre1) 
+2025/02/24 14:08:51 [notice] 1#1: OS: Linux 5.15.167.4-microsoft-standard-WSL2
+2025/02/24 14:08:51 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/02/24 14:08:51 [notice] 1#1: start worker processes
+2025/02/24 14:08:51 [notice] 1#1: start worker process 30
